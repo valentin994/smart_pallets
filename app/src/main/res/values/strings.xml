@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Smart pallets</string>
+
+    <string-array name="programming_languages">
+        <item>0001</item>
+        <item>0002</item>
+        <item>0003</item>
+        <item>0004</item>
+        <item>0005</item>
+        <item>0006</item>
+        <item>0007</item>
+        <item>0008</item>
+        <item>0009</item>
+        <item>0010</item>
+        <item>0011</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Zagreb</item>
+        <item>Sisak</item>
+        <item>Zupanja</item>
+        <item>Sarajevo</item>
+        <item>Verona</item>
+        <item>Venecija</item>
+        <item>Maribor</item>
+        <item>Bec</item>
+        <item>Chania</item>
+        <item>Beograd</item>
+        <item>Split</item>
+    </string-array>
+
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClosed">drawerClosed</string>
+</resources>
